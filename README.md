@@ -1,1 +1,1 @@
-# jenkins-jnlp-slave-with-gcloud
+# This image contains Jenkins jnlp with gcloud sdk installed - JDK11
